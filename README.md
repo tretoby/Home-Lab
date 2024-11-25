@@ -1,6 +1,7 @@
 # Home-Lab
 
 ## Objective
+Build a cloud base attack and defend (red team, blue team) cybersecurity home lab 
 
 ## Toplogy
 
@@ -11,7 +12,7 @@
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application.
+- Advanced understanding of SIEM concepts and practical application using Splunk , and Nessus
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
 - Enhanced knowledge of network protocols and security vulnerabilities.
