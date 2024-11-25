@@ -1,7 +1,7 @@
 # Home-Lab
 
 ## Objective
-Build a cloud base attack and defend (red team, blue team) cybersecurity home lab 
+Develop a comprehensive cloud-based cybersecurity home lab designed to simulate realistic attack and defense scenarios, enabling hands-on practice in Red Team offensive tactics and Blue Team defensive strategies. This project provides a dynamic environment for mastering cybersecurity skills in penetration testing, threat detection, incident response, and more.
 
 ## Toplogy
 
