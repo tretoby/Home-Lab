@@ -1,9 +1,8 @@
 # Home-Lab
 
 ## Objective
-[Brief Objective - Remove this afterwards]
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+This repository is dedicated to documenting and automating the setup of a scalable and secure Home Lab environment using AWS cloud services. The primary goal is to create a flexible platform for learning, experimentation, and testing various cybersecurity, while leveraging AWS’s robust infrastructure.
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
