@@ -2,7 +2,11 @@
 
 ## Objective
 
-This repository is dedicated to documenting and automating the setup of a scalable and secure Home Lab environment using AWS cloud services. The primary goal is to create a flexible platform for learning, experimentation, and testing various cybersecurity, while leveraging AWS’s robust infrastructure.
+## Toplogy
+
+![Cloud-hosted Cybersecurity Homelab (1)](https://github.com/user-attachments/assets/84009ae7-6da5-464d-9515-5a948d274c50)
+
+
 
 ### Skills Learned
 [Bullet Points - Remove this afterwards]
@@ -22,6 +26,14 @@ This repository is dedicated to documenting and automating the setup of a scalab
 
 ## Steps
 drag & drop screenshots here or use imgur and reference them using imgsrc
+
+
+
+
+
+
+
+
 
 Every screenshot should have some text explaining what the screenshot is about.
 
