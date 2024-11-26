@@ -1,22 +1,39 @@
 # Home-Lab
 
 ## Objective
-Develop a comprehensive cloud-based cybersecurity home lab designed to simulate realistic attack and defense scenarios, enabling hands-on practice in Red Team offensive tactics and Blue Team defensive strategies. This project provides a dynamic environment for mastering cybersecurity skills in penetration testing, threat detection, incident response, and more.
+fully automated and secure phishing campaign simulation platform using AWS to educate and raise awareness about social engineering attacks. This project aims to provide organizations and individuals with hands-on experience in identifying, analyzing, and mitigating phishing threats in a controlled and ethical environment.
 
-## Toplogy
-
-![Cloud-hosted Cybersecurity Homelab (1)](https://github.com/user-attachments/assets/84009ae7-6da5-464d-9515-5a948d274c50)
 
 
 
 ### Skills Learned
-[Bullet Points - Remove this afterwards]
 
-- Advanced understanding of SIEM concepts and practical application using Splunk , and Nessus
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+
+Cloud Infrastructure:
+
+Deploying and managing AWS services (EC2, S3, SES, Lambda, etc.).
+Automating deployments with Terraform or CloudFormation.
+Cybersecurity:
+
+Understanding phishing techniques and defenses.
+Simulating social engineering attacks ethically.
+Web Development & Networking:
+
+Building phishing landing pages.
+Configuring DNS, SSL/TLS, and secure AWS networking.
+Data Analysis:
+
+Collecting and analyzing user interaction data.
+Generating reports to measure campaign success.
+Ethics and Compliance:
+
+Adhering to legal and ethical boundaries in simulations.
+Protecting user privacy and securing collected data.
+AWS Security Best Practices:
+
+Configuring IAM roles, VPCs, and security groups.
+Using tools like AWS Shield and WAF for protection.
+This project sharpens skills in cybersecurity, cloud computing, and ethical hacking, ideal for training and awareness programs.
 
 ### Tools Used
 [Bullet Points - Remove this afterwards]
