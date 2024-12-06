@@ -66,6 +66,7 @@ This project demonstrates the creation of a fully automated and secure **phishin
 
 10. **Log In**  
     - Log in using the instance ID as the password.  
+<img width="495" alt="image" src="https://github.com/user-attachments/assets/e06ca631-c7fa-4477-b4e2-fae505ff5d61">
 
 11. **Create Phishing Campaigns**  
     - Use the platform to create phishing campaigns for specific users and groups.  
